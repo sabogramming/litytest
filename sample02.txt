@@ -1,1 +1,3 @@
 Happy Git i'm master now
+
+I add a sentence to sample02.txt
