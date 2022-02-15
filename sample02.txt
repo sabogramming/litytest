@@ -2,6 +2,9 @@ Happy Git i'm master now
 
 I add a sentence to sample02.txt
 
-I add two sentences to sample.txt
-I add two sentences to sample.txt
+I add two sentences to sample02.txt
+I add two sentences to sample02.txt
 
+I add three sentences to sample02.txt
+I add three sentences to sample02.txt
+I add three sentences to sample02.txt
