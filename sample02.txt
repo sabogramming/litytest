@@ -8,3 +8,8 @@ I add two sentences to sample02.txt
 I add three sentences to sample02.txt
 I add three sentences to sample02.txt
 I add three sentences to sample02.txt
+
+I add four sentences to sample02.txt
+I add four sentences to sample02.txt
+I add four sentences to sample02.txt
+I add four sentences to sample02.txt
