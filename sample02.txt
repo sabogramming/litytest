@@ -1,4 +1,5 @@
 Happy Git i'm master now
+<<<<<<< HEAD
 
 
 I add a sentence to sample02.txt
@@ -6,3 +7,5 @@ I add a sentence to sample02.txt
 I add two sentences to sample.txt
 I add two sentences to sample.txt
 
+=======
+>>>>>>> parent of 5e793e8... sample02.txtに一文追加
