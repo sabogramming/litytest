@@ -3,3 +3,5 @@ Hello Git
 add sentence
 
 now i'm branch develop
+
+I'm branch of news now
