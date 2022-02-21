@@ -6,3 +6,5 @@ I add two sentences to sample.txt
 I add two sentences to sample.txt
 
 revertはgit log に残らないの？？
+
+master から文章追加
