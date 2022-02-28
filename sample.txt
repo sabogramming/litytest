@@ -7,3 +7,6 @@ now i'm branch develop
 I'm branch of master now. and I'm branch of news now. Conflict is done.
 Yes, I'm branch develop too.
 
+スタッシュ用に追加した文その１
+
+スタッシュ用に追加した文その２
